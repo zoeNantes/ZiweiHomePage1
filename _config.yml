@@ -4,7 +4,7 @@ title: Your Name
 description: subtitle | affiliations | motto
 
 baseurl: #name of GitHub repository
-url: "https://zoenantes.github.io/ZiweiHomePage1/" #custom url to be used instead of GitHub repository
+url: "https://zoenantes.github.io/ZiweiHomePage/" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
