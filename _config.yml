@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Ziwei XU (许子微)
+description: Researcher | @AIST | Domain: Computer Science
 
 baseurl: #name of GitHub repository
 url: "https://zoenantes.github.io/ZiweiHomePage/" #custom url to be used instead of GitHub repository
-email: #
+email: xuxiaowei0203@gmail.com
 
 # Pagination
 paginate: 4
