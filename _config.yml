@@ -46,6 +46,7 @@ collections:
     permalink: /projects/:name/
     order:
       - dissertation.md
+      - PublicTalks.md
       # - shortProject.md
       # - redirect.md
       # - project4.md
