@@ -13,15 +13,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "https://www.linkedin.com/in/ziwei-xu-348435172/"
+github: "https://github.com/zoeNantes"
+researchgate: "https://www.researchgate.net/profile/Ziwei-Xu-12"
+orcid: "https://orcid.org/0000-0002-1081-0475"
+
 
 
 # Markdown
@@ -48,12 +44,12 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - dissertation.md
+      # - shortProject.md
+      # - redirect.md
+      # - project4.md
+      # - project5.md
+      # - project6.md
 
 sass:
   sass_dir: /assets/css/_sass
