@@ -4,9 +4,9 @@ title: My Dissertation Resources
 description: pdf; ppt; video; latex
 ---
 
+
+# Background #
 ---
-Background
-============
 
 ### Titile ###
 **Enchancing LDA for Ontology Learning**
@@ -27,9 +27,9 @@ This dissertation aims to enhance LDA’s utilities of conceptualizing terms tow
 </blockquote>
 
 
+
+# Open Resources #
 ---
-Open Resources
-============
 
 ### Dissertation ###
 * My dissertation [official webpage](https://www.theses.fr/2021NANT4007).
