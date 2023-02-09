@@ -13,10 +13,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/ziwei-xu-348435172/"
-github: "https://github.com/zoeNantes"
-researchgate: "https://www.researchgate.net/profile/Ziwei-Xu-12"
-orcid: "https://orcid.org/0000-0002-1081-0475"
+orcid: "#0000-0002-1081-0475"
+github: "#zoeNantes"
+linkedin: "#ziwei-xu-348435172/"
+researchgate: "#Ziwei-Xu-12"
+
 
 
 
