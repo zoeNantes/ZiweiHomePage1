@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Welcome to Ziwei's space (in Chinese: 许子微).  
+Welcome to Ziwei XU's space (in Chinese: 许子微).  
 
 I am interested on Artificial Intelligence, NLP, deep learning, ontology learning, relation extraction, entity linking, knowledge graph construction and semantic web.
 
@@ -16,4 +16,4 @@ Currently, I am working as a postdoctoral researcher at National Institute of Ad
 
 For more research background, please check my [Curriculum Vitae in pdf](/assets/files/Ziwei XU_CV_homepage.pdf).
 
-This website is used to update my academic progress.
+For my academic connection in social network, please click the underneath logos of this page.
