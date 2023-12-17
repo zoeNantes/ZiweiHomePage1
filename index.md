@@ -14,6 +14,6 @@ I am interested on Artificial Intelligence, NLP, deep learning, ontology learnin
 
 Currently, I am working as a postdoctoral researcher at National Institute of Advanced Industrial Science and Technolog in Japan (in Japanese: 産業技術総合研究所) .
 
-For more research background, please check my [Curriculum Vitae in pdf](/assets/files/Ziwei XU_CV_homepage.pdf).
+For more research background, please check my [Curriculum Vitae in pdf](/assets/files/CV_researcher_v2.pdf).
 
-For my academic connection in social network, please click the underneath logos of this page.
+For my academic connection in social network, please click the underneath **logos**:
